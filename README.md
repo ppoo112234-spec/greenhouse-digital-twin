@@ -5,7 +5,7 @@
 > Author: **Park Sihong** — 11-year commercial tomato grower, M.S. candidate
 > Greenhouse: ~16,000 m² glass greenhouse, Priva Connext 906, large-fruited tomato (Korea)
 > Data: 6 years of operational records (2020–2025), 5-minute sensor intervals
-> Status: Conceptual design complete (20 rounds of critical review) — implementation in progress
+> Status: Conceptual design complete  — implementation in progress
 > Last revised: 2026-03-08
 
 ---
