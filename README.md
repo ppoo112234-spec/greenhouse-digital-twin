@@ -1,8 +1,6 @@
 # Unified Energy Flow Model for Greenhouse Tomato Production
 
 **A single energy balance equation that unifies greenhouse climate physics, mechanistic crop growth, and economic optimization — designed and validated on a 16,000 m² (4,900 pyeong) commercial tomato greenhouse in South Korea.**
-## Contact
-For questions, collaborations, or inquiries: please open a GitHub Issue or reach out via email at ppoo112234@gmail.com
 
 > Author: **Park Sihong** — 11-year commercial tomato grower, M.S. candidate
 > Greenhouse: ~16,000 m² glass greenhouse, Priva Connext 906, large-fruited tomato (Korea)
